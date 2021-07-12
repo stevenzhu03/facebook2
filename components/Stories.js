@@ -2,6 +2,11 @@ import StoryCard from "./StoryCard";
 
 const stories = [
     {
+        name: "Kevin Durant",
+        src: "https://tinyurl.com/wsb7c2ae",
+        profile: "https://tinyurl.com/32yn2f8n"
+    },
+    {
         name: "Elon Musk",
         src: "https://links.papareact.com/4zn",
         profile: "https://links.papareact.com/kxk"

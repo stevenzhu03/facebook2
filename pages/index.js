@@ -20,7 +20,7 @@ export default function Home({ session }) {
             {/* Header */}
             <Header />
 
-            <main className="flex">
+            <main className="flex bg-gray-100">
                 <Sidebar />
                 <Feed />
                 {/* Widgets */}

@@ -1,14 +1,14 @@
 import { useSession } from "next-auth/client"
 import {
     ChevronDownIcon,
-    ShoppingBagIcon,
-    UserGroupIcon
 } from "@heroicons/react/solid";
 import {
     CalendarIcon,
     ClockIcon,
     DesktopComputerIcon,
-    UsersIcon
+    UsersIcon,
+    UserGroupIcon,
+    ShoppingBagIcon
 } from "@heroicons/react/outline";
 import SidebarRow from "./SidebarRow";
 
